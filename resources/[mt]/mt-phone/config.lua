@@ -31,7 +31,7 @@ Config.PhoneApplications = {
         style = "font-size: 3.3vh";
         job = false,
         blockedjobs = {},
-        slot = 3,
+        slot = 2,
         Alerts = 0,
     },
     ["whatsapp"] = {
@@ -44,7 +44,7 @@ Config.PhoneApplications = {
         style = "font-size: 3.3vh";
         job = false,
         blockedjobs = {},
-        slot = 4,
+        slot = 3,
         Alerts = 0,
     },
     ["settings"] = {
@@ -57,7 +57,7 @@ Config.PhoneApplications = {
         style = "padding-right: .08vh; font-size: 3.3vh";
         job = false,
         blockedjobs = {},
-        slot = 2,
+        slot = 4,
         Alerts = 0,
     },
     ["ping"] = {
@@ -301,12 +301,6 @@ Config.PhoneApplications = {
         slot = 24,
         Alerts = 0,
     },
-
-
-
-
-
-
     -- ["mybank"] = {
     --     app = "mybank",
     --     color = "#a9fd78",
@@ -316,7 +310,7 @@ Config.PhoneApplications = {
     --     style = "color: black; font-size: 2.7vh";
     --     job = false,
     --     blockedjobs = {},
-    --     slot = 20,
+    --     slot = 25,
     --     Alerts = 0,
     -- },
     -- ["camera"] = {
@@ -328,7 +322,7 @@ Config.PhoneApplications = {
     --     tooltipPos = "bottom",
     --     job = false,
     --     blockedjobs = {},
-    --     slot = 15,
+    --     slot = 26,
     --     Alerts = 0,
     -- },
 }
@@ -344,7 +338,7 @@ Config.StoreApps = {
         style = "";
         job = false,
         blockedjobs = {},
-        slot = 17,
+        slot = 16,
         Alerts = 0,
         password = true,
         creator = "QBCore",
